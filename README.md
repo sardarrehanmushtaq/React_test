@@ -6,7 +6,6 @@ A simple React component that fetches todo items from the JSONPlaceholder API, d
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
